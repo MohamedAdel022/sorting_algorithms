@@ -1,4 +1,4 @@
-i#include "sort.h"
+#include "sort.h"
 
 /**
  * swap - swaps 2 int values
